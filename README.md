@@ -8,6 +8,9 @@
 
 ## Usage and Endpoints:
 **GET** `/api/` : Fetches all addresses in array format.
+```js
+{ No Data Field }
+```
 **POST** `/api/` : Creates a new address to be pushed into the address array.
 Data field:
 
